@@ -1,0 +1,32 @@
+/* General Styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif; 
+  }
+  
+  /* Navigation */
+  nav {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    background-color: #f0f0f0;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    display: block;
+    margin-right: 10%;
+    width: 50px;
+    /* overflow: hidden; */
+  }
+  
+  .left-nav a {
+   /* ... Link styles ... */
+  }
+  
+  .search-bar {
+    /* ... Search bar and button styles... */
+  }
+  
+  /* Carousel, Card, and Footer Styling - Add as needed */
+  
